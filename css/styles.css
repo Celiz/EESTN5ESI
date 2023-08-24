@@ -49,6 +49,10 @@ body {
     margin-bottom: 10px;
 }
 
+.agradecimientos{
+    text-align: center;
+}
+
 @media (max-width: 600px) {
   .text {
     margin: 10px;
